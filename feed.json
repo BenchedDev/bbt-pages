@@ -16,6 +16,7 @@
             "title": "Coming To Farmington Station!",
             "summary": "Hey everyone! Just letting you guys know that we will be heading to Farmington Station on November 18th. Hope to see you there!",
             "content_html": "<p>Hey everyone! Just letting you guys know that we will be heading to Farmington Station on November 18th. Hope to see you there!</p>",
+            "image": "https://bencheddev.github.io/bbt-pages/media/posts/1/farmingtonstation.webp",
             "author": {
                 "name": "Bekah"
             },
@@ -23,7 +24,7 @@
                    "Events"
             ],
             "date_published": "2025-11-10T14:06:49-07:00",
-            "date_modified": "2025-11-10T14:15:00-07:00"
+            "date_modified": "2025-11-10T15:19:38-07:00"
         }
     ]
 }
