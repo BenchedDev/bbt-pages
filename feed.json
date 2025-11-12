@@ -5,7 +5,7 @@
     "home_page_url": "https://bencheddev.github.io/bbt-pages",
     "feed_url": "https://bencheddev.github.io/bbt-pages/feed.json",
     "user_comment": "",
-    "icon": "https://bencheddev.github.io/bbt-pages/media/website/behak-biomes-icon-2.jpg",
+    "icon": "https://bencheddev.github.io/bbt-pages/media/website/bbicon.svg",
     "author": {
         "name": "Bekah"
     },
@@ -14,8 +14,8 @@
             "id": "https://bencheddev.github.io/bbt-pages/coming-to-farmington-station/",
             "url": "https://bencheddev.github.io/bbt-pages/coming-to-farmington-station/",
             "title": "Coming To Farmington Station!",
-            "summary": "Hey everyone! Just letting you guys know that we will be heading to Farmington Station on November 18th. Hope to see you there!",
-            "content_html": "<p>Hey everyone! Just letting you guys know that we will be heading to Farmington Station on November 18th. Hope to see you there!</p>",
+            "summary": "Hey everyone! Just letting you guys know that we will be heading to Farmington Station on November 10th. Hope to see you there!",
+            "content_html": "<p>Hey everyone! Just letting you guys know that we will be heading to Farmington Station on November 10th. Hope to see you there!</p>",
             "image": "https://bencheddev.github.io/bbt-pages/media/posts/1/farmingtonstation.webp",
             "author": {
                 "name": "Bekah"
@@ -24,7 +24,7 @@
                    "Events"
             ],
             "date_published": "2025-11-10T14:06:49-07:00",
-            "date_modified": "2025-11-11T22:16:22-07:00"
+            "date_modified": "2025-11-12T11:46:18-07:00"
         }
     ]
 }
